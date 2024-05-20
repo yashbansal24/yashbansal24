@@ -8,7 +8,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><br><br>
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
-  <img src="https://intro.rustbridge.com/img/ferris.gif" width="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055" width="150">
   
 </p>
 <br>
